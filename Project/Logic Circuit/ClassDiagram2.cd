@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Logic_Circuit.BigSchemeContainer" Collapsed="true">
+    <Position X="4.75" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAAAAIIAAAAEAEAAAgEAAAQFABAEAAAAQAQAE=</HashCode>
+      <FileName>BigSchemeContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.BooleanString" Collapsed="true">
+    <Position X="8" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAEAAAAAgAAAAAAgAAAAAAAQAAA=</HashCode>
+      <FileName>BooleanString.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.ChangeNameForm" Collapsed="true">
+    <Position X="7.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIBBAAACAAAACAAAEAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>ChangeNameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.CircuitComponent" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAgAAAAAAAAAAAAEAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>CircuitComponent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.CircuitInput" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAiAAAAAAAAQAEAEEABAAAABgAAAoYAA=</HashCode>
+      <FileName>CircuitInput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.CircuitJack" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CircuitJack.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.CircuitOutput" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAiAAAAAIAAQACAEEAAAAAABgAAAoYAA=</HashCode>
+      <FileName>CircuitOutput.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Form1" Collapsed="true">
+    <Position X="9.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>7TAho/0XDCCJ+MvHxWKKJ5hjMBjZIWo1UURUOaGwNIE=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.GV" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAACAAAAAAAAEAAAAAAAgCAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GlobalVariables.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.LogicGate" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAEAAACAAAIgAAAAQIAAAgEAEAAFAAAAhgAAQIYAA=</HashCode>
+      <FileName>LogicGate.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Program" Collapsed="true">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Scheme" Collapsed="true">
+    <Position X="0.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Scheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.SchemeContainer" Collapsed="true">
+    <Position X="2.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAAAAAAAIAACAAAAAAAgEAIAAFABAAAAAAQAQAE=</HashCode>
+      <FileName>SchemeContainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.SchemeNameForm" Collapsed="true">
+    <Position X="9.5" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAACAACBAAAACAIAICAAAQAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>SchemeNameForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Task" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAA4AAAAAAAACACAAAAAAAAAAACAAQAAAABAAAA=</HashCode>
+      <FileName>Task.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Tools" Collapsed="true">
+    <Position X="10" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Wire" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAgACAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAI=</HashCode>
+      <FileName>Wire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Properties.Resources" Collapsed="true">
+    <Position X="10" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAQgAAAAAACJiAQABEAAAAQAADAAEAAAgAAEAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Logic_Circuit.Properties.Settings" Collapsed="true">
+    <Position X="10" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,55 @@
+E:\Проект\Logic Circuit v.12\Logic Circuit\bin\Release\Logic Circuit.exe
+E:\Проект\Logic Circuit v.12\Logic Circuit\bin\Release\Logic Circuit.pdb
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\ResolveAssemblyReference.cache
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.ChangeNameForm.resources
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.Form1.resources
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.Properties.Resources.resources
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.SchemeNameForm.resources
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\GenerateResource.read.1.tlog
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\GenerateResource.write.1.tlog
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic Circuit.exe
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic Circuit.exe
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.12\Logic Circuit\bin\Release\Logic Circuit.exe
+F:\Проект\Logic Circuit v.12\Logic Circuit\bin\Release\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.ChangeNameForm.resources
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.Form1.resources
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.Properties.Resources.resources
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\Logic_Circuit.SchemeNameForm.resources
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.exe
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.ChangeNameForm.resources
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.Form1.resources
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.Properties.Resources.resources
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.SchemeNameForm.resources
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Проект\Logic Circuit v.13\Logic Circuit\bin\Release\Logic Circuit.exe
+F:\Проект\Logic Circuit v.13\Logic Circuit\bin\Release\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.exe
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.13\Logic Circuit\bin\Release\Logic Circuit.exe
+G:\Проект\Logic Circuit v.13\Logic Circuit\bin\Release\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.ChangeNameForm.resources
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.SchemeNameForm.resources
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.csproj.GenerateResource.Cache
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.13\Logic Circuit\obj\x86\Release\Logic_Circuit.TaskForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic Circuit.exe
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic_Circuit.ChangeNameForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic_Circuit.SchemeNameForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic_Circuit.TaskForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Release\Logic Circuit.csproj.GenerateResource.Cache
+G:\Проект\Logic Circuit v.14\Logic Circuit\bin\Release\Logic Circuit.exe
+G:\Проект\Logic Circuit v.14\Logic Circuit\bin\Release\Logic Circuit.pdb

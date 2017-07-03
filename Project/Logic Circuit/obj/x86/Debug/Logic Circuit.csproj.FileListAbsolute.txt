@@ -1,0 +1,143 @@
+H:\10 класс\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.exe
+H:\10 класс\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.pdb
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+H:\10 класс\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.csproj.GenerateResource.Cache
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+F:\Проект\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.exe
+F:\Проект\Logic Circuit\Logic Circuit\bin\Debug\Logic Circuit.pdb
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Проект\Logic Circuit\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.5\Logic Circuit\bin\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.5\Logic Circuit\bin\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.5\Logic Circuit\obj\x86\Debug\Logic Circuit.csproj.GenerateResource.Cache
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.6\Logic Circuit\bin\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.6\Logic Circuit\bin\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.6\Logic Circuit\bin\Debug\Logic Circuit.exe
+F:\Проект\Logic Circuit v.6\Logic Circuit\bin\Debug\Logic Circuit.pdb
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Проект\Logic Circuit v.6\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.7\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.8\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.9\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic_Circuit.ChangeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.10\Logic Circuit\obj\x86\Debug\Logic_Circuit.SchemeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic_Circuit.ChangeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\Logic_Circuit.SchemeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.11\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\bin\Debug\Logic Circuit.exe
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\bin\Debug\Logic Circuit.pdb
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic_Circuit.ChangeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic_Circuit.SchemeNameForm.resources
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\user\Documents\Visual Studio 2010\Projects\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+E:\Проект\Logic Circuit v.12\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.14\Logic Circuit\bin\Debug\Logic Circuit.exe
+G:\Проект\Logic Circuit v.14\Logic Circuit\bin\Debug\Logic Circuit.pdb
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.ChangeNameForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.SchemeNameForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.TaskForm.resources
+G:\Проект\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.csproj.GenerateResource.Cache
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.exe
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.pdb
+G:\Защита\Logic Circuit v.14\Logic Circuit\bin\Debug\Logic Circuit.exe
+G:\Защита\Logic Circuit v.14\Logic Circuit\bin\Debug\Logic Circuit.pdb
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.csprojResolveAssemblyReference.cache
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.ChangeNameForm.resources
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.Form1.resources
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.Properties.Resources.resources
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.SchemeNameForm.resources
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic_Circuit.TaskForm.resources
+G:\Защита\Logic Circuit v.14\Logic Circuit\obj\x86\Debug\Logic Circuit.csproj.GenerateResource.Cache
